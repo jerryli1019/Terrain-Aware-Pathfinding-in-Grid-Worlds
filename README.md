@@ -1,0 +1,1 @@
+Simply run `python main.py` and you will see the grid world window. By pressing `enter` you see how DFS finds a path (given DFS is buggy, as you will see). Pressing 2, 3, or 4 should respectively run BFS, UCS, A\* in a similar way, which you will implement (since right now it does nothing). 
